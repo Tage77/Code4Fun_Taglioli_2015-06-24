@@ -1,0 +1,21 @@
+C:\Users\Fabio\AppData\Local\Temporary Projects\Intersection_Test\bin\Debug\Intersection_Test.dll
+C:\Users\Fabio\AppData\Local\Temporary Projects\Intersection_Test\bin\Debug\Intersection_Test.pdb
+C:\Users\Fabio\AppData\Local\Temporary Projects\Intersection_Test\bin\Debug\nunit.framework.dll
+C:\Users\Fabio\AppData\Local\Temporary Projects\Intersection_Test\bin\Debug\nunit.framework.xml
+C:\Users\Fabio\AppData\Local\Temporary Projects\Intersection_Test\obj\Debug\Intersection_Test.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\AppData\Local\Temporary Projects\Intersection_Test\obj\Debug\Intersection_Test.dll
+C:\Users\Fabio\AppData\Local\Temporary Projects\Intersection_Test\obj\Debug\Intersection_Test.pdb
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-23\Intersection_Test\Intersection_Test\bin\Debug\Intersection_Test.dll
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-23\Intersection_Test\Intersection_Test\bin\Debug\Intersection_Test.pdb
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-23\Intersection_Test\Intersection_Test\bin\Debug\nunit.framework.dll
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-23\Intersection_Test\Intersection_Test\bin\Debug\nunit.framework.xml
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-23\Intersection_Test\Intersection_Test\obj\Debug\Intersection_Test.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-23\Intersection_Test\Intersection_Test\obj\Debug\Intersection_Test.dll
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-23\Intersection_Test\Intersection_Test\obj\Debug\Intersection_Test.pdb
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-24\Intersection_Test\Intersection_Test\bin\Debug\Intersection_Test.dll
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-24\Intersection_Test\Intersection_Test\bin\Debug\Intersection_Test.pdb
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-24\Intersection_Test\Intersection_Test\bin\Debug\nunit.framework.dll
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-24\Intersection_Test\Intersection_Test\bin\Debug\nunit.framework.xml
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-24\Intersection_Test\Intersection_Test\obj\Debug\Intersection_Test.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-24\Intersection_Test\Intersection_Test\obj\Debug\Intersection_Test.dll
+C:\Users\Fabio\Documents\GitHub\Code4Fun_Taglioli_2015-06-24\Intersection_Test\Intersection_Test\obj\Debug\Intersection_Test.pdb
